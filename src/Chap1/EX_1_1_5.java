@@ -3,7 +3,7 @@ package Chap1;
 import java.util.Scanner;
 
 public class EX_1_1_5 {
-    public static void main(String arg[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double x = in.nextDouble();
         double y = in.nextDouble();

@@ -1,7 +1,7 @@
 package Chap1;
 
 public class EX_1_1_2 {
-    public static void main(String arg[])
+    public static void main(String[] args)
     {
         System.out.println((1 + 2.236) / 2);
         System.out.println(1 + 2 + 3 + 4.0);
