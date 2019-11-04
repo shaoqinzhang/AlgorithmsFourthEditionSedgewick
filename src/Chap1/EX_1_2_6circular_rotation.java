@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class EX_1_2_6circular_rotation {
 public static void main(String[] args) {
+
         System.out.print("s: ");
         String s = StdIn.readLine();
         System.out.print("t: ");
